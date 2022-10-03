@@ -17,11 +17,10 @@
 
 ## Tech Stack
 
--  [TypeScript](https://www.typescriptlang.org/)
--  [Jest](https://jestjs.io/)
--  [ESLint](https://eslint.org/)
--  [Prettier](https://prettier.io/)
-
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [Jest](https://jestjs.io/)
+-   [ESLint](https://eslint.org/)
+-   [Prettier](https://prettier.io/)
 
 ## Installation
 
@@ -42,7 +41,7 @@ yarn add @blazingworks/helloworld
 ### TypeScript
 
 ```typescript
-import { helloWorld } from '@blazingworks/helloworld';
+import { helloWorld } from "@blazingworks/helloworld";
 
 console.log(helloWorld());
 // or
@@ -52,7 +51,7 @@ console.log(helloWorld("Nagi Aoe"));
 ### JavaScript
 
 ```javascript
-const { helloWorld } = require('@blazingworks/helloworld');
+const { helloWorld } = require("@blazingworks/helloworld");
 
 console.log(helloWorld());
 // or
@@ -61,12 +60,12 @@ console.log(helloWorld("Reiji Kurose"));
 
 ## How to report issues/questions
 
-- For general issues/questions, [open an issue](https://github.com/blazingworks/helloworld/issues)
-- For security issues, please email [security@blazing.works](mailto:security@blazing.works)
-- For important questions, please email [opensource@blazing.works](mailto:opensource@blazing.works)
+-   For general issues/questions, [open an issue](https://github.com/blazingworks/helloworld/issues)
+-   For security issues, please email [security@blazing.works](mailto:security@blazing.works)
+-   For important questions, please email [opensource@blazing.works](mailto:opensource@blazing.works)
 
 ## License
 
 As this is an open-source project, support is limited. Please use [GitHub Issues](https://github.com/blazingworks/helloworld/issues) for community support or contact [opensource@blazing.works](mailto:opensource@blazing.works) for very important matters.
 
-**ℹ️ All code in this repository is licensed under the [MIT License](LICENSE.md).**
+**ℹ️ All code in this repository is licensed under the [MIT License](LICENSE).**
